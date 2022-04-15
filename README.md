@@ -1,2 +1,2 @@
 # connect-learners
-WIT Sangli Hackathon Repository
+WIT Sangli Hackathon Project
